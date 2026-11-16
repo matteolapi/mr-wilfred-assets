@@ -84,7 +84,29 @@
    "page": "https://commons.wikimedia.org/wiki/File:Plate_tectonics_map.gif"
   }
  ],
- "san_andreas": [],
+ "san_andreas": [
+  {
+   "file": "san_andreas_0.jpg",
+   "title": "File:Carrizo Plain, California (ASTER).jpg",
+   "license": "Public domain",
+   "author": "NASA/METI/AIST/Japan Space Systems, and U.S./Japan ASTER Science Team",
+   "page": "https://commons.wikimedia.org/wiki/File:Carrizo_Plain,_California_(ASTER).jpg"
+  },
+  {
+   "file": "san_andreas_1.jpg",
+   "title": "File:Carrizo Plain NM (8779652011).jpg",
+   "license": "Public domain",
+   "author": "mypubliclands",
+   "page": "https://commons.wikimedia.org/wiki/File:Carrizo_Plain_NM_(8779652011).jpg"
+  },
+  {
+   "file": "san_andreas_2.jpg",
+   "title": "File:San Andreas Fault (3796678501).jpg",
+   "license": "CC BY 2.0",
+   "author": "Chris M Morris",
+   "page": "https://commons.wikimedia.org/wiki/File:San_Andreas_Fault_(3796678501).jpg"
+  }
+ ],
  "aurora": [
   {
    "file": "aurora_0.jpg",
@@ -324,7 +346,29 @@
    "page": "https://commons.wikimedia.org/wiki/File:Needle_in_compass.jpg"
   }
  ],
- "geoid": [],
+ "geoid": [
+  {
+   "file": "geoid_0.jpg",
+   "title": "File:Geoid undulation 10k scale.jpg",
+   "license": "CC BY 4.0",
+   "author": "International Centre for Global Earth Models (ICGEM)",
+   "page": "https://commons.wikimedia.org/wiki/File:Geoid_undulation_10k_scale.jpg"
+  },
+  {
+   "file": "geoid_1.jpg",
+   "title": "File:Geoid undulation to scale.jpg",
+   "license": "CC BY 4.0",
+   "author": "International Centre for Global Earth Models (ICGEM)",
+   "page": "https://commons.wikimedia.org/wiki/File:Geoid_undulation_to_scale.jpg"
+  },
+  {
+   "file": "geoid_2.jpg",
+   "title": "File:The Geoid (SVS5660).png",
+   "license": "Public domain",
+   "author": "NASA's Scientific Visualization Studio - NASA/GSFC/Scott Luthcke, NASA/GSFC/Mark",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Geoid_(SVS5660).png"
+  }
+ ],
  "himalaya": [
   {
    "file": "himalaya_0.jpg",
@@ -348,16 +392,171 @@
    "page": "https://commons.wikimedia.org/wiki/File:The_Himalayas_(48625198948).jpg"
   }
  ],
- "earthquake_damage": [],
- "star_trails": [],
- "atmosphere_limb": [],
+ "earthquake_damage": [
+  {
+   "file": "earthquake_damage_0.jpg",
+   "title": "File:Rescue workers near the semi-collapsed ten-story Uranus Building on Xuanyuan Road after the 2024 Hualien earthquake.jpg",
+   "license": "CC BY 2.0",
+   "author": "\u7e3d\u7d71\u5e9c / Official Photo by Shufu Liu / Office of the President\n\nPerspective correct",
+   "page": "https://commons.wikimedia.org/wiki/File:Rescue_workers_near_the_semi-collapsed_ten-story_Uranus_Building_on_Xuanyuan_Road_after_the_2024_Hualien_earthquake.jpg"
+  },
+  {
+   "file": "earthquake_damage_1.jpg",
+   "title": "File:Fukui Earthquake 1948 - damaged building.jpg",
+   "license": "Public domain",
+   "author": "Bert Cohen",
+   "page": "https://commons.wikimedia.org/wiki/File:Fukui_Earthquake_1948_-_damaged_building.jpg"
+  },
+  {
+   "file": "earthquake_damage_2.jpg",
+   "title": "File:Haiti Earthquake building damage.jpg",
+   "license": "CC BY 2.0",
+   "author": "Photo Marco Dormino/ The United Nations United Nations Development Programme",
+   "page": "https://commons.wikimedia.org/wiki/File:Haiti_Earthquake_building_damage.jpg"
+  }
+ ],
+ "star_trails": [
+  {
+   "file": "star_trails_0.jpg",
+   "title": "File:2012-03-14 21-42-55-file-etoiles-14f-2min-3d.jpg",
+   "license": "CC BY 3.0",
+   "author": "Thomas Bresson",
+   "page": "https://commons.wikimedia.org/wiki/File:2012-03-14_21-42-55-file-etoiles-14f-2min-3d.jpg"
+  },
+  {
+   "file": "star_trails_1.jpg",
+   "title": "File:Kitt Peak National Observatory Beneath Star Trails (noirlab2512ae).jpg",
+   "license": "CC BY 4.0",
+   "author": "DESI Collaboration/DOE/KPNO/NOIRLab/NSF/AURA/L. Tyas",
+   "page": "https://commons.wikimedia.org/wiki/File:Kitt_Peak_National_Observatory_Beneath_Star_Trails_(noirlab2512ae).jpg"
+  },
+  {
+   "file": "star_trails_2.jpg",
+   "title": "File:International Space Station star trails - JSC2012E039800.jpg",
+   "license": "Public domain",
+   "author": "NASA/Don Pettit",
+   "page": "https://commons.wikimedia.org/wiki/File:International_Space_Station_star_trails_-_JSC2012E039800.jpg"
+  }
+ ],
+ "atmosphere_limb": [
+  {
+   "file": "atmosphere_limb_0.jpg",
+   "title": "File:Top of Atmosphere.jpg",
+   "license": "Public domain",
+   "author": "NASA Earth Observatory",
+   "page": "https://commons.wikimedia.org/wiki/File:Top_of_Atmosphere.jpg"
+  },
+  {
+   "file": "atmosphere_limb_1.jpg",
+   "title": "File:S65-34771 Earth's limb and atmosphere at twilight.jpg",
+   "license": "Public domain",
+   "author": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:S65-34771_Earth%27s_limb_and_atmosphere_at_twilight.jpg"
+  },
+  {
+   "file": "atmosphere_limb_2.jpg",
+   "title": "File:ISS-51 Moon, Earth's limb and the thin blue atmosphere.jpg",
+   "license": "Public domain",
+   "author": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:ISS-51_Moon,_Earth%27s_limb_and_the_thin_blue_atmosphere.jpg"
+  }
+ ],
  "comet": [],
- "seafloor": [],
+ "seafloor": [
+  {
+   "file": "seafloor_0.jpg",
+   "title": "File:Isopach sheet 7 33.jpg",
+   "license": "Public domain",
+   "author": "USGS",
+   "page": "https://commons.wikimedia.org/wiki/File:Isopach_sheet_7_33.jpg"
+  },
+  {
+   "file": "seafloor_1.jpg",
+   "title": "File:Oceanic Crust Sphere Map1.jpg",
+   "license": "Public domain",
+   "author": "Earth_seafloor_crust_age_poster.gif: National Oceanic and Atmospheric Administra",
+   "page": "https://commons.wikimedia.org/wiki/File:Oceanic_Crust_Sphere_Map1.jpg"
+  },
+  {
+   "file": "seafloor_2.jpg",
+   "title": "File:Frontier Sandstone (Upper Cretaceous; western Dinosaur National Monument, Utah, USA) 24 (48849526271).jpg",
+   "license": "CC BY 2.0",
+   "author": "James St. John",
+   "page": "https://commons.wikimedia.org/wiki/File:Frontier_Sandstone_(Upper_Cretaceous;_western_Dinosaur_National_Monument,_Utah,_USA)_24_(48849526271).jpg"
+  }
+ ],
  "pangaea": [],
  "magma": [],
  "iceland_rift": [],
- "tides": [],
- "moon": [],
+ "tides": [
+  {
+   "file": "tides_0.jpg",
+   "title": "File:Low Tide at Pourville, by Claude Monet, Cleveland Museum of Art, 1947.196.jpg",
+   "license": "Public domain",
+   "author": "Claude Monet",
+   "page": "https://commons.wikimedia.org/wiki/File:Low_Tide_at_Pourville,_by_Claude_Monet,_Cleveland_Museum_of_Art,_1947.196.jpg"
+  },
+  {
+   "file": "tides_1.jpg",
+   "title": "File:Low tide. Tenby, UK.jpg",
+   "license": "CC BY 4.0",
+   "author": "\u0412\u0432\u043b\u0430\u0441\u0435\u043d\u043a\u043e",
+   "page": "https://commons.wikimedia.org/wiki/File:Low_tide._Tenby,_UK.jpg"
+  },
+  {
+   "file": "tides_2.jpg",
+   "title": "File:Low tide at Tenby, United Kingdom.jpg",
+   "license": "CC BY 4.0",
+   "author": "\u0412\u0432\u043b\u0430\u0441\u0435\u043d\u043a\u043e",
+   "page": "https://commons.wikimedia.org/wiki/File:Low_tide_at_Tenby,_United_Kingdom.jpg"
+  }
+ ],
+ "moon": [
+  {
+   "file": "moon_0.jpg",
+   "title": "File:Full moon partially obscured by atmosphere.jpg",
+   "license": "Public domain",
+   "author": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Full_moon_partially_obscured_by_atmosphere.jpg"
+  },
+  {
+   "file": "moon_1.jpg",
+   "title": "File:LRO Tycho Central Peak.jpg",
+   "license": "Public domain",
+   "author": "NASA / GSFC / Arizona State Univ. / Lunar Reconnaissance Orbiter",
+   "page": "https://commons.wikimedia.org/wiki/File:LRO_Tycho_Central_Peak.jpg"
+  },
+  {
+   "file": "moon_2.jpg",
+   "title": "File:Full moon in Sagittarius.jpg",
+   "license": "CC0",
+   "author": "Joselodos",
+   "page": "https://commons.wikimedia.org/wiki/File:Full_moon_in_Sagittarius.jpg"
+  }
+ ],
  "sunrise": [],
- "grand_canyon": []
+ "grand_canyon": [],
+ "death_valley2": [
+  {
+   "file": "death_valley2_0.jpg",
+   "title": "File:Sand dunes in Death Valley National Park - DraxFelton.JPG",
+   "license": "Public domain",
+   "author": "User:DraxFelton",
+   "page": "https://commons.wikimedia.org/wiki/File:Sand_dunes_in_Death_Valley_National_Park_-_DraxFelton.JPG"
+  },
+  {
+   "file": "death_valley2_1.jpg",
+   "title": "File:Death Valley National Park - 53668253217.jpg",
+   "license": "CC BY 2.0",
+   "author": "RuggyBearLA",
+   "page": "https://commons.wikimedia.org/wiki/File:Death_Valley_National_Park_-_53668253217.jpg"
+  },
+  {
+   "file": "death_valley2_2.jpg",
+   "title": "File:Death Valley National Park - 53698661094.jpg",
+   "license": "CC BY 2.0",
+   "author": "RuggyBearLA",
+   "page": "https://commons.wikimedia.org/wiki/File:Death_Valley_National_Park_-_53698661094.jpg"
+  }
+ ]
 }
