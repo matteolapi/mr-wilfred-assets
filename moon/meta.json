@@ -68,7 +68,29 @@
    "page": "https://commons.wikimedia.org/wiki/File:Far_side_of_the_Moon_close_up_for_Lunar_Crater_Radio_Telescope.png"
   }
  ],
- "moonrise": [],
+ "moonrise": [
+  {
+   "file": "moonrise_0.jpg",
+   "title": "File:Good Morning From the International Space Station.jpg",
+   "license": "Public domain",
+   "author": "Scott Kelly",
+   "page": "https://commons.wikimedia.org/wiki/File:Good_Morning_From_the_International_Space_Station.jpg"
+  },
+  {
+   "file": "moonrise_1.jpg",
+   "title": "File:Moonrise, Hernandez, New Mexico (cropped).jpg",
+   "license": "Public domain",
+   "author": "Ansel Adams",
+   "page": "https://commons.wikimedia.org/wiki/File:Moonrise,_Hernandez,_New_Mexico_(cropped).jpg"
+  },
+  {
+   "file": "moonrise_2.jpg",
+   "title": "File:Stanis\u0142aw Mas\u0142owski - Wsch\u00f3d ksi\u0119\u017cyca (ol n p\u0142 1884).jpg",
+   "license": "Public domain",
+   "author": "Stanis\u0142aw Mas\u0142owski",
+   "page": "https://commons.wikimedia.org/wiki/File:Stanis%C5%82aw_Mas%C5%82owski_-_Wsch%C3%B3d_ksi%C4%99%C5%BCyca_(ol_n_p%C5%82_1884).jpg"
+  }
+ ],
  "moon_phases": [
   {
    "file": "moon_phases_0.jpg",
@@ -138,7 +160,29 @@
    "page": "https://commons.wikimedia.org/wiki/File:Apollo_11_bootprint_(cropped).jpg"
   }
  ],
- "aldrin": [],
+ "aldrin": [
+  {
+   "file": "aldrin_0.jpg",
+   "title": "File:Buzz Aldrin by Neil Armstrong.jpg",
+   "license": "Public domain",
+   "author": "Neil Armstrong",
+   "page": "https://commons.wikimedia.org/wiki/File:Buzz_Aldrin_by_Neil_Armstrong.jpg"
+  },
+  {
+   "file": "aldrin_1.jpg",
+   "title": "File:Aldrin Apollo 11.jpg",
+   "license": "Public domain",
+   "author": "Neil A. Armstrong",
+   "page": "https://commons.wikimedia.org/wiki/File:Aldrin_Apollo_11.jpg"
+  },
+  {
+   "file": "aldrin_2.jpg",
+   "title": "File:A Man on the Moon, AS11-40-5903 (cropped).jpg",
+   "license": "Public domain",
+   "author": "Neil A. Armstrong",
+   "page": "https://commons.wikimedia.org/wiki/File:A_Man_on_the_Moon,_AS11-40-5903_(cropped).jpg"
+  }
+ ],
  "retroreflector": [
   {
    "file": "retroreflector_0.jpg",
@@ -467,5 +511,144 @@
  "high_tide": [],
  "low_tide": [],
  "solar_eclipse": [],
- "crescent": []
+ "crescent": [
+  {
+   "file": "crescent_0.jpg",
+   "title": "File:Lunar phases al-Biruni.jpg",
+   "license": "Public domain",
+   "author": "Al-Biruni",
+   "page": "https://commons.wikimedia.org/wiki/File:Lunar_phases_al-Biruni.jpg"
+  },
+  {
+   "file": "crescent_1.jpg",
+   "title": "File:Waxing Crescent Moon 13 February 2026.jpg",
+   "license": "CC0",
+   "author": "Wxao Zexw",
+   "page": "https://commons.wikimedia.org/wiki/File:Waxing_Crescent_Moon_13_February_2026.jpg"
+  },
+  {
+   "file": "crescent_2.jpg",
+   "title": "File:Waxing moon in T\u00f5rva.jpg",
+   "license": "CC0",
+   "author": "Taavi Niittee",
+   "page": "https://commons.wikimedia.org/wiki/File:Waxing_moon_in_T%C3%B5rva.jpg"
+  }
+ ],
+ "farside": [
+  {
+   "file": "farside_0.jpg",
+   "title": "File:Earthrise over Compton crater -LRO full res.jpg",
+   "license": "Public domain",
+   "author": "NASA / Goddard Space Flight Center / Arizona State University",
+   "page": "https://commons.wikimedia.org/wiki/File:Earthrise_over_Compton_crater_-LRO_full_res.jpg"
+  },
+  {
+   "file": "farside_1.jpg",
+   "title": "File:Moon farside LRO 5000.jpg",
+   "license": "Public domain",
+   "author": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Moon_farside_LRO_5000.jpg"
+  },
+  {
+   "file": "farside_2.jpg",
+   "title": "File:Moon farside LRO color mosaic.png",
+   "license": "Public domain",
+   "author": "NASA",
+   "page": "https://commons.wikimedia.org/wiki/File:Moon_farside_LRO_color_mosaic.png"
+  }
+ ],
+ "nearside": [
+  {
+   "file": "nearside_0.jpg",
+   "title": "File:Earthrise over Compton crater -LRO full res.jpg",
+   "license": "Public domain",
+   "author": "NASA / Goddard Space Flight Center / Arizona State University",
+   "page": "https://commons.wikimedia.org/wiki/File:Earthrise_over_Compton_crater_-LRO_full_res.jpg"
+  },
+  {
+   "file": "nearside_1.jpg",
+   "title": "File:Moon nearside LRO 5000.jpg",
+   "license": "Public domain",
+   "author": "NASA/GSFC/Arizona State University",
+   "page": "https://commons.wikimedia.org/wiki/File:Moon_nearside_LRO_5000.jpg"
+  },
+  {
+   "file": "nearside_2.jpg",
+   "title": "File:Moon nearside LRO 5000 (reflectance).jpg",
+   "license": "Public domain",
+   "author": "NASA/GSFC/Arizona State University",
+   "page": "https://commons.wikimedia.org/wiki/File:Moon_nearside_LRO_5000_(reflectance).jpg"
+  }
+ ],
+ "tide_low": [
+  {
+   "file": "tide_low_0.jpg",
+   "title": "File:Low tide at Tenby, United Kingdom.jpg",
+   "license": "CC BY 4.0",
+   "author": "\u0412\u0432\u043b\u0430\u0441\u0435\u043d\u043a\u043e",
+   "page": "https://commons.wikimedia.org/wiki/File:Low_tide_at_Tenby,_United_Kingdom.jpg"
+  }
+ ],
+ "tide_high": [
+  {
+   "file": "tide_high_0.jpg",
+   "title": "File:Georges Seurat 054.jpg",
+   "license": "Public domain",
+   "author": "Georges Seurat",
+   "page": "https://commons.wikimedia.org/wiki/File:Georges_Seurat_054.jpg"
+  },
+  {
+   "file": "tide_high_1.jpg",
+   "title": "File:Georges Seurat 049.jpg",
+   "license": "Public domain",
+   "author": "Georges Seurat",
+   "page": "https://commons.wikimedia.org/wiki/File:Georges_Seurat_049.jpg"
+  }
+ ],
+ "eclipse": [
+  {
+   "file": "eclipse_0.jpg",
+   "title": "File:Total Solar Eclipse (ann17032a).tif",
+   "license": "CC BY 4.0",
+   "author": "Luc Viatour",
+   "page": "https://commons.wikimedia.org/wiki/File:Total_Solar_Eclipse_(ann17032a).tif"
+  },
+  {
+   "file": "eclipse_1.jpg",
+   "title": "File:Total Solar Eclipse (ann17032a).jpg",
+   "license": "CC BY 4.0",
+   "author": "Luc Viatour",
+   "page": "https://commons.wikimedia.org/wiki/File:Total_Solar_Eclipse_(ann17032a).jpg"
+  },
+  {
+   "file": "eclipse_2.jpg",
+   "title": "File:Total Solar Eclipse (53635306511).jpg",
+   "license": "CC BY 2.0",
+   "author": "Antonio Ferretti from Lanciano  - Italy -",
+   "page": "https://commons.wikimedia.org/wiki/File:Total_Solar_Eclipse_(53635306511).jpg"
+  }
+ ],
+ "dust": [
+  {
+   "file": "dust_0.jpg",
+   "title": "File:Harrison Schmitt inside LM on surface, Apollo 17.jpg",
+   "license": "Public domain",
+   "author": "National Aeronautics and Space Administration; Gene Cernan",
+   "page": "https://commons.wikimedia.org/wiki/File:Harrison_Schmitt_inside_LM_on_surface,_Apollo_17.jpg"
+  },
+  {
+   "file": "dust_1.jpg",
+   "title": "File:AS17-145-22224.jpg",
+   "license": "Public domain",
+   "author": "NASA / Harrison Schmitt",
+   "page": "https://commons.wikimedia.org/wiki/File:AS17-145-22224.jpg"
+  },
+  {
+   "file": "dust_2.jpg",
+   "title": "File:Schmitt Covered with Lunar Dirt - GPN-2000-001124.jpg",
+   "license": "Public domain",
+   "author": "NASA Eugene Cernan",
+   "page": "https://commons.wikimedia.org/wiki/File:Schmitt_Covered_with_Lunar_Dirt_-_GPN-2000-001124.jpg"
+  }
+ ]
 }
